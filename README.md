@@ -1,13 +1,12 @@
 ### Hi there 👋
-I hope you like your stay in my profile!
-### Firstly, I am Kareem, an electronics and communications engineer fresh graduate.
-I consider myself a Linux enthusiast (I have been at peace ever since I migrated to Linux). Currently using Arch Linux with KDE and looking to use VoidLinux with dwm soon.\
-As of late January 2024, I have claimed the GitHub education pack, and I'm looking to make as much use of it as possible. I would also like to take this as an oppurtunity to actually use GitHub more actively.
+I hope my profile is of interest!
+### Firstly, I am Kareem, an electronics and communications engineering graduate from the [Faculty of Engineering Ain Shams University](https://eng.asu.edu.eg).
+I consider myself a Linux enthusiast. I have been using Linux since late 2024. Ever since this transition, I learnt a lot about computers and how basic functionality is automated in today's operating systems. I am currently using Arch Linux with DWM and looking to switch to VoidLinux soon.\
 
 - My interests: \
 Computer Networks. \
-Cybersecurity. \
-Embedded Systems.
+System Adminstration. \
+Cloud Computing.
 
 - Contact me:\
 Linkedin: https://www.linkedin.com/in/kareem-youssry/ \
